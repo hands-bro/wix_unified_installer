@@ -1,0 +1,4 @@
+LIBRARY "InstallAssistant"
+
+EXPORTS
+    CustomAction1
